@@ -1,0 +1,2 @@
+Remeber to give the public access (it will assign public ip address).
+Check Security groups so that it allows the needed inbound and outbound traffic.
